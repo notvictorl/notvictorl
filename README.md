@@ -1,5 +1,9 @@
 ### hi
-this github is empty for now bc im working on other accounts  
+
+computer engineering at umd
+
+importing my hackathon projects and more
+
 worked on [fetf](https://www.github.com/IlIIlIllIIIllllIIlIIl)
 <!--
 **notvictorl/notvictorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
