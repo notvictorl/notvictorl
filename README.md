@@ -2,9 +2,8 @@
 
 computer engineering at umd
 
-importing my hackathon projects and more
+hackathons and personal projects
 
-worked on [fetf](https://www.github.com/IlIIlIllIIIllllIIlIIl)
 <!--
 **notvictorl/notvictorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
