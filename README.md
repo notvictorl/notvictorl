@@ -1,6 +1,6 @@
 ### hi
 
-computer engineering student at umd
+computer engineering student at umd, college park
 
 hackathons and personal projects
 
