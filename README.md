@@ -19,7 +19,7 @@ hackathons and personal projects
 #### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)
 > Hackathon Project  
 > 3D AR Grapher allows users to model 3D graphs and see them in augmented reality.
-> - HTML/JavaScript, Python Flask, Wolfram Alpha API, and EchoAR  
+> - JavaScript, HTML, Python Flask, Wolfram Alpha API, and EchoAR  
 
 <!--
 **notvictorl/notvictorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
