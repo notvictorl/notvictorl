@@ -2,23 +2,24 @@
 
 computer engineering student at umd, college park
 
-hackathons and personal projects
+hackathons and personal projects  
+more on my [devpost](https://devpost.com/victorliu9001)
 
 ### Notable Projects
 
 #### [AssistSpeak](https://github.com/fetf/AssistSpeak)
-> Hackathon Project  
-> AssistSpeak is a virtual assistant that works on any mobile phone using talk and text.
+> Hackathon Project: Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack)
+> A virtual assistant that works on any mobile phone using talk and text.
 > - Python, Twilio API, AssemblyAI, and Wolfram  API  
 
 #### [Barcode/QR Scanner App](https://github.com/fetf/Barcode-QR-Scanner)
-> Hackathon Project  
-> Barcode/QR Scanner is a mobile app that scans barcodes and QR codes.
+> Hackathon Project: Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/)
+> A mobile app that scans barcodes and QR codes then saves them in a history.
 > - JavaScript, React-Native, and Expo  
 
 #### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)
 > Hackathon Project  
-> 3D AR Grapher allows users to model 3D graphs and see them in augmented reality.
+> Models 3D graphs and can see them in augmented reality.
 > - JavaScript, HTML, Python Flask, Wolfram Alpha API, and EchoAR  
 
 <!--
