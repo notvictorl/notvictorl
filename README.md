@@ -3,7 +3,7 @@
 computer engineering student at umd, college park
 
 hackathons and personal projects  
-more on my [devpost](https://devpost.com/victorliu9001)
+more hackathon projects on my [devpost](https://devpost.com/victorliu9001)
 
 ### Notable Projects
 
