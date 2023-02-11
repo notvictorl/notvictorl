@@ -20,7 +20,7 @@ more hackathon projects on my [devpost](https://devpost.com/victorliu9001)
 > - JavaScript, React-Native, and Expo  
 
 #### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 14 – 18, 2021  
-> Hackathon Project  
+> Hackathon Project for [ThetaHacks 2021](https://thetahacks.tech/)  
 > Written with [Richard Sbaschnig](https://github.com/RichardSba), Julian Chavez  
 > Models 3D graphs and can see them in augmented reality.
 > - JavaScript, HTML, Python Flask, Wolfram Alpha API, and EchoAR  
