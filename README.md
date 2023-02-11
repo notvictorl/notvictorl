@@ -7,17 +7,17 @@ more hackathon projects on my [devpost](https://devpost.com/victorliu9001)
 
 ### Notable Projects
 
-#### [AssistSpeak](https://github.com/fetf/AssistSpeak)
+#### [AssistSpeak](https://github.com/fetf/AssistSpeak)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 6-7, 2021  
 > Hackathon Project: Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack)  
 > A virtual assistant that works on any mobile phone using talk and text.
 > - Python, Twilio API, AssemblyAI, and Wolfram  API  
 
-#### [Barcode/QR Scanner App](https://github.com/fetf/Barcode-QR-Scanner)
+#### [Barcode/QR Scanner App](https://github.com/fetf/Barcode-QR-Scanner)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 19, 2020 
 > Hackathon Project: Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/)  
 > A mobile app that scans barcodes and QR codes then saves them in a history.
 > - JavaScript, React-Native, and Expo  
 
-#### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)
+#### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan 14–18, 2021  
 > Hackathon Project  
 > Models 3D graphs and can see them in augmented reality.
 > - JavaScript, HTML, Python Flask, Wolfram Alpha API, and EchoAR  
