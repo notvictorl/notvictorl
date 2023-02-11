@@ -1,6 +1,6 @@
 ### hi
 
-computer engineering student at umd, college park
+Undergraduate Computer Engineering Student at University of Maryland, College Park
 
 hackathons and personal projects  
 more hackathon projects on my [devpost](https://devpost.com/victorliu9001)
