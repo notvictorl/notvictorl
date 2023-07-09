@@ -1,9 +1,9 @@
 ### hi
 
 Undergraduate Computer Engineering Student at University of Maryland, College Park
+Currently working interning at AstraZeneca as an Automation Engineer
 
-hackathons and personal projects  
-more hackathon projects on my [devpost](https://devpost.com/victorliu9001)
+Hackathon and Other Projects
 
 ### Notable Projects
 
