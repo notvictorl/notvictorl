@@ -3,7 +3,7 @@
 Undergraduate Computer Engineering Student at University of Maryland, College Park
 Currently working interning at AstraZeneca as an Automation Engineer
 
-[![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorliu2/)](https://www.linkedin.com/in/victorliu2/)
+[![Linkedin Badge](https://img.shields.io/badge/-VictorLiu2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorliu2/)](https://www.linkedin.com/in/victorliu2/)
 
 Hackathon and Other Projects
 
