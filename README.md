@@ -13,7 +13,7 @@ Hackathon and Other Projects
 > Hackathon Project: Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack)  
 > Written with [Richard Sbaschnig](https://github.com/RichardSba)  
 > A virtual assistant that works on any mobile phone using talk and text.
-> - Python, Twilio API, AssemblyAI, and Wolfram  API  
+> - Python (Flask), Twilio API, AssemblyAI, and Wolfram  API  
 
 #### [Barcode/QR Scanner App](https://github.com/fetf/Barcode-QR-Scanner)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec 19, 2020 
 > Hackathon Project: Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/)  
