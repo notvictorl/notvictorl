@@ -1,6 +1,6 @@
 ### hi
 
-Undergraduate Computer Engineering Student at University of Maryland, College Park
+Undergraduate Computer Engineering Student at University of Maryland, College Park  
 Currently working interning at AstraZeneca as an Automation Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-victorliu2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorliu2/)](https://www.linkedin.com/in/victorliu2/)
