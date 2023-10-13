@@ -12,7 +12,7 @@ Hackathon and Other Projects
 > Hackathon Project: Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack)  
 > Written with [Richard Sbaschnig](https://github.com/RichardSba)  
 > A virtual assistant that works on any mobile phone using talk and text.
-> - Python (Flask), Twilio API, AssemblyAI, and Wolfram  API  
+> - Python, Flask, Twilio API, AssemblyAI, and Wolfram  API  
 
 #### [Barcode/QR Scanner App](https://github.com/fetf/Barcode-QR-Scanner)
 > Hackathon Project: Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/)  
@@ -24,7 +24,7 @@ Hackathon and Other Projects
 > Hackathon Project for [ThetaHacks 2021](https://thetahacks.tech/)  
 > Written with [Richard Sbaschnig](https://github.com/RichardSba), Julian Chavez  
 > Models 3D graphs and can see them in augmented reality.
-> - JavaScript, HTML, Python Flask, Wolfram Alpha API, and EchoAR  
+> - JavaScript, Python, Flask, Wolfram Alpha API, and EchoAR  
 
 <!--
 **notvictorl/notvictorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
