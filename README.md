@@ -4,7 +4,7 @@ Undergraduate Computer Engineering Student at University of Maryland, College Pa
 
 [![Linkedin Badge](https://img.shields.io/badge/-victorliu2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorliu2/)](https://www.linkedin.com/in/victorliu2/)
 
-Hackathon and Other Projects
+Personal, Hackathon, and Other Projects
 
 ### Notable Projects
 
