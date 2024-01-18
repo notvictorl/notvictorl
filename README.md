@@ -8,23 +8,17 @@ Personal, Hackathon, and Other Projects
 
 ### Notable Projects
 
+#### [0h h1 Solver](https://github.com/notvictorl/0hh1-Solver)  
+> Solver for the puzzle game [0h h1](https://0hh1.com)  
+
 #### [AssistSpeak](https://github.com/fetf/AssistSpeak)
-> Hackathon Project: Winner of **Most Creative Use of Twilio** at [Girls Hoo Hack 2021](https://www.gwcuva.com/hack)  
-> Written with [Richard Sbaschnig](https://github.com/RichardSba)  
 > A virtual assistant that works on any mobile phone using talk and text.
-> - Python, Flask, Twilio API, AssemblyAI, and Wolfram  API  
 
 #### [Barcode/QR Scanner App](https://github.com/fetf/Barcode-QR-Scanner)
-> Hackathon Project: Winner of **Best in Entertainment** at [QuHacks2020](https://quhacks.tech/)  
-> Written with [Richard Sbaschnig](https://github.com/RichardSba), Julian Chavez  
 > A mobile app that scans barcodes and QR codes then saves them in a history.
-> - JavaScript, React-Native, and Expo  
 
 #### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)
-> Hackathon Project for [ThetaHacks 2021](https://thetahacks.tech/)  
-> Written with [Richard Sbaschnig](https://github.com/RichardSba), Julian Chavez  
 > Models 3D graphs and can see them in augmented reality.
-> - JavaScript, Python, Flask, Wolfram Alpha API, and EchoAR  
 
 <!--
 **notvictorl/notvictorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
