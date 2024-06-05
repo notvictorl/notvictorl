@@ -4,7 +4,7 @@ Undergraduate Computer Engineering Student at University of Maryland, College Pa
 
 Personal, Hackathon, and Other Projects
 
-vim enjoyer
+FPGA and Systems
 
 ### Notable Projects
 
@@ -20,10 +20,6 @@ vim enjoyer
 #### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)
 > Models 3D graphs and can see them in augmented reality.
 
-
-<!-- Profile Views -->
-![notvictorl's Github Profile Views](https://komarev.com/ghpvc/?username=notvictorl&style=plastic&color=FFB7C5&hide_border=true&theme=noctis_minimus)  
-<!--
 **notvictorl/notvictorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
