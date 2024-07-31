@@ -12,7 +12,7 @@ struct victor {
   string hardware[] = {"Verilog", "FPGA", "SystemVerilog"};
   string hobbies[] = {"cooking", "reading", "music", "puzzle games"};
   // and more...
-}
+};
 ```
 
 ## Notable Projects
