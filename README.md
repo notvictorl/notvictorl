@@ -4,7 +4,7 @@
 
 Personal, Hackathon, and Other Projects
 
-FPGA and Systems Software Engineer
+Systems Software and FPGA Engineer
 
 ```cpp
 struct victor {
