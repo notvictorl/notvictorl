@@ -25,9 +25,3 @@ struct victor {
 
 #### [AssistSpeak](https://github.com/fetf/AssistSpeak)
 > A virtual assistant that works on any mobile phone using talk and text.
-
-#### [Barcode/QR Scanner App](https://github.com/fetf/Barcode-QR-Scanner)
-> A mobile app that scans barcodes and QR codes then saves them in a history.
-
-#### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)
-> Models 3D graphs and can see them in augmented reality.
