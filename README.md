@@ -9,7 +9,7 @@ Systems Software and FPGA Engineer
 ```cpp
 struct victor {
   string programming[] = {"C/C++", "Java", "Python", "JavaScript"};
-  string hardware[] = {"Verilog", "FPGA", "SystemVerilog"};
+  string hardware[] = {"Verilog", "FPGAs", "SystemVerilog"};
   string hobbies[] = {"cooking", "reading", "music", "puzzle games"};
   // and more...
 };
