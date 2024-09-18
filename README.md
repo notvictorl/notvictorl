@@ -25,4 +25,4 @@ struct victor {
 > Solver for the puzzle game [0h h1](https://0hh1.com)  
 
 #### [Diagonal Matrix Verifier](https://github.com/notvictorl/diagonal-matrix-verifier)
-> Verifies CSR diagonal sparse matrices as part of a branch prediction architecture for machine learning computation
+> Verifies CSR diagonal sparse matrices as part of a branch prediction architecture for ML computation
