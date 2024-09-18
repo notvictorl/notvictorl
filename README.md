@@ -24,5 +24,5 @@ struct victor {
 #### [0h h1 Solver](https://github.com/notvictorl/0hh1-Solver)  
 > Solver for the puzzle game [0h h1](https://0hh1.com)  
 
-#### [AssistSpeak](https://github.com/fetf/AssistSpeak)
-> A virtual assistant that works on any mobile phone using talk and text.
+#### [Diagonal Matrix Verifier](https://github.com/notvictorl/diagonal-matrix-verifier)
+> Verifies CSR diagonal sparse matrices as part of a branch prediction architecture for machine learning computation
