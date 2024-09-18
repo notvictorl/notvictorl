@@ -4,12 +4,13 @@
 
 Personal, Hackathon, and Other Projects
 
-Systems Software and FPGA Engineer
+Systems Software and FPGA Engineer  
+Focused on Low Latency and High Performance
 
 ```cpp
 struct victor {
-  string programming[] = {"C/C++", "Java", "Python", "JavaScript"};
-  string hardware[] = {"Verilog", "FPGAs", "SystemVerilog"};
+  string programming[] = {"C/C++", "Python", "Java", "JavaScript"};
+  string hardware[] = {"Verilog", "SystemVerilog", "FPGA"};
   string hobbies[] = {"cooking", "reading", "music", "puzzle games"};
   // and more...
 };
